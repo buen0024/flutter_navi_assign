@@ -15,7 +15,7 @@ class MainApp extends StatelessWidget {
     return MaterialApp(
       title: 'Navigation App',
       theme: ThemeData(
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.pink),
         textTheme: const TextTheme(
           headlineLarge: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
           bodyLarge: TextStyle(fontSize: 18),
