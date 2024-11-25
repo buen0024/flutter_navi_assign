@@ -23,7 +23,7 @@ class HomeScreen extends StatelessWidget {
           ),
           Expanded(
             child: Container(
-              color: Colors.blue[900],
+              color: Colors.pink[900],
               child: Center(
                 child: Transform(
                   transform: Matrix4.rotationZ(-0.3),
